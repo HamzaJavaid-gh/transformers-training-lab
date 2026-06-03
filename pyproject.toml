@@ -1,0 +1,24 @@
+[project]
+name = "attention-is-all-you-need"
+version = "0.1.0"
+description = "Transformer from scratch (Vaswani et al. 2017), trained end-to-end on real translation data. Notebook-first, feel-it workflow."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.2",
+    "datasets>=2.19",
+    "tokenizers>=0.19",
+    "sacrebleu>=2.4",
+    "matplotlib>=3.8",
+    "tqdm>=4.66",
+    "ipykernel>=7.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29",
+    "jupyterlab>=4.0",
+]
+
+[tool.uv]
+package = false

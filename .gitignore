@@ -1,0 +1,59 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert/
+
+# PyTorch checkpoints & model artifacts
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+
+# Datasets / large data
+data/
+datasets/
+*.hdf5
+*.h5
+*.bin
+
+# Logs & metrics
+logs/
+runs/
+wandb/
+tensorboard/
+output/
+
+# Build / dist
+*.egg-info/
+dist/
+build/
+
+# Secrets
+.env
+.env.*
+
+# Claude Code
+CLAUDE.md
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
