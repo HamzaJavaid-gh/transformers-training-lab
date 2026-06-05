@@ -1,0 +1,44 @@
+
+===== step 100 | val_loss 8.878 | BLEU 0.00 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp: 
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp: 
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp: 
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp: 
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp: 
+
+
+===== step 200 | val_loss 8.221 | BLEU 0.03 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Ein mit mit mit mit mit mit........................................................
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein mit mit mit mit mit mit........................................................
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein mit mit mit mit mit mit........................................................
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Ein mit mit mit mit mit mit........................................................
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein mit mit mit mit mit mit mit.......................................................
+

@@ -1,0 +1,106 @@
+{
+  "run_name": "smoke",
+  "preset": "smoke",
+  "final": true,
+  "params": 2206208,
+  "config": {
+    "src_vocab_size": 10000,
+    "tgt_vocab_size": 10000,
+    "d_model": 128,
+    "d_ff": 512,
+    "n_heads": 4,
+    "n_encoder_layers": 2,
+    "n_decoder_layers": 2,
+    "dropout": 0.1,
+    "max_seq_len": 128,
+    "pad_id": 0,
+    "tie_embeddings": true,
+    "disable_ffn": false,
+    "no_scaling": false,
+    "no_causal_mask": false,
+    "no_cross_attn": false,
+    "no_positional": false,
+    "single_head": false
+  },
+  "args": {
+    "preset": "smoke",
+    "run_name": "smoke",
+    "checkpoint_dir": "checkpoints",
+    "runs_dir": "runs",
+    "batch_size": 128,
+    "max_steps": 200,
+    "warmup_steps": 4000,
+    "label_smoothing": 0.1,
+    "dropout": 0.1,
+    "grad_clip": 1.0,
+    "max_len": 64,
+    "vocab_size": 10000,
+    "log_every": 50,
+    "eval_every": 100,
+    "bleu_sentences": 50,
+    "num_workers": 2,
+    "seed": 1337,
+    "amp": false,
+    "no_figures": false,
+    "device": null,
+    "resume": null
+  },
+  "best_val_loss": 8.220581286759888,
+  "last_step": 200,
+  "train_hist": {
+    "step": [
+      50,
+      100,
+      150,
+      200
+    ],
+    "loss": [
+      9.118879318237305,
+      8.89967155456543,
+      8.619711875915527,
+      8.252110481262207
+    ],
+    "ppl": [
+      9125.968576954205,
+      7329.5657813508415,
+      5539.790016784665,
+      3835.7124843885204
+    ],
+    "lr": [
+      1.746928107421711e-05,
+      3.493856214843422e-05,
+      5.2407843222651325e-05,
+      6.987712429686843e-05
+    ],
+    "grad_norm": [
+      1.1238958462766568,
+      1.1700771715411333,
+      1.2098948357734483,
+      1.195506961696242
+    ],
+    "tok_per_sec": [
+      47712.44290906431,
+      81255.7860211688,
+      40487.145494684315,
+      77541.69159467812
+    ]
+  },
+  "eval_hist": {
+    "step": [
+      100,
+      200
+    ],
+    "val_loss": [
+      8.877553663367985,
+      8.220581286759888
+    ],
+    "val_ppl": [
+      7169.230913732635,
+      3716.662201242023
+    ],
+    "bleu": [
+      0.0,
+      0.03428375981825473
+    ]
+  }
+}

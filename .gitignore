@@ -35,7 +35,6 @@ datasets/
 
 # Logs & metrics
 logs/
-runs/
 wandb/
 tensorboard/
 output/

@@ -1,0 +1,27 @@
+
+===== run 'smoke' | device cuda | preset smoke =====
+artifacts -> runs/smoke/  (train.log, metrics.jsonl, summary.json, samples.txt, figures/)
+args: {"preset": "smoke", "run_name": "smoke", "checkpoint_dir": "checkpoints", "runs_dir": "runs", "batch_size": 128, "max_steps": 200, "warmup_steps": 4000, "label_smoothing": 0.1, "dropout": 0.1, "grad_clip": 1.0, "max_len": 64, "vocab_size": 10000, "log_every": 50, "eval_every": 100, "bleu_sentences": 50, "num_workers": 2, "seed": 1337, "amp": false, "no_figures": false, "device": null, "resume": null}
+README.md:   0%|          | 0.00/1.15k [00:00<?, ?B/s]README.md: 100%|##########| 1.15k/1.15k [00:00<00:00, 3.11MB/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+train.jsonl:   0%|          | 0.00/4.60M [00:00<?, ?B/s]train.jsonl: 100%|##########| 4.60M/4.60M [00:00<00:00, 116MB/s]
+val.jsonl:   0%|          | 0.00/164k [00:00<?, ?B/s]val.jsonl: 100%|##########| 164k/164k [00:00<00:00, 104MB/s]
+test.jsonl:   0%|          | 0.00/156k [00:00<?, ?B/s]test.jsonl: 100%|##########| 156k/156k [00:00<00:00, 111MB/s]
+Generating train split:   0%|          | 0/29000 [00:00<?, ? examples/s]Generating train split: 100%|##########| 29000/29000 [00:00<00:00, 818990.40 examples/s]
+Generating validation split:   0%|          | 0/1014 [00:00<?, ? examples/s]Generating validation split: 100%|##########| 1014/1014 [00:00<00:00, 398745.95 examples/s]
+Generating test split:   0%|          | 0/1000 [00:00<?, ? examples/s]Generating test split: 100%|##########| 1000/1000 [00:00<00:00, 474146.96 examples/s]
+data: online=True train=29000 val=1014 test=1000
+vocab: 10000
+model: 2,206,208 params | d_model=128 h=4 2+2
+training to 200 steps...
+
+step     50 | loss  9.119 | ppl  9125.97 | lr 1.75e-05 | gnorm   1.12 |    47712 tok/s
+step    100 | loss  8.900 | ppl  7329.57 | lr 3.49e-05 | gnorm   1.17 |    81256 tok/s
+  [eval @ 100] val_loss 8.878 | val_ppl 7169.23 | BLEU 0.00  <- new best (saved)
+step    150 | loss  8.620 | ppl  5539.79 | lr 5.24e-05 | gnorm   1.21 |    40487 tok/s
+step    200 | loss  8.252 | ppl  3835.71 | lr 6.99e-05 | gnorm   1.20 |    77542 tok/s
+  [eval @ 200] val_loss 8.221 | val_ppl 3716.66 | BLEU 0.03  <- new best (saved)
+
+done. best val_loss 8.221
+checkpoints: checkpoints/smoke.best.pt  (best)  |  checkpoints/smoke.last.pt  (last)
+artifacts:   runs/smoke/  (train.log, metrics.jsonl, summary.json, samples.txt, figures/)

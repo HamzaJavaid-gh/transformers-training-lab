@@ -1,0 +1,1100 @@
+
+===== step 2000 | val_loss 4.017 | BLEU 12.83 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steht auf einem Dach und bereitet sich aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann sitzt in einem grünen Hemd auf einer Bank.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt auf einer Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer in einem blauen Boot schauen sich auf einen großen Baum zu, um einen großen Baum zu fangen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einem weißen Hut sitzt auf einem kleinen kleinen Boot.
+
+
+===== step 4000 | val_loss 3.676 | BLEU 16.00 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe Männer schaut aus einem Verwubungsungsbau aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem grünen Raum.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf dem Schoß seines Mannes.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer schauen sich an einem sonnigen Tag aus einer Klippe aus.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Brille und einer roten Jacke sitzt in einem Boot.
+
+
+===== step 6000 | val_loss 3.561 | BLEU 19.61 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steuert einen Steck einer Schindung.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Zimmer auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille auf dem Schoß sitzt auf der Schulter.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die sich an einer Anlegestelle in einem See an der Leine befindet.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste sitzt in der Nähe eines kleinen Kinds.
+
+
+===== step 8000 | val_loss 3.672 | BLEU 21.08 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steuert eine Hängebrücke.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einer Couch.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Straße.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer fischen an einer blauen Stucht an einem hölzernen Glllanmal.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste trägt ein kleines Kind in roter Schwimmbekleidung.
+
+
+===== step 10000 | val_loss 3.763 | BLEU 21.57 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern stugt einen Steck vom Ufer.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Raum auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Schultern einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die eine Kuh auf einer bewaldeten Klippe aus blauen Wurficks auf dem Boden sind.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz trägt ein kleines Kind in einer roten Jacke.
+
+
+===== step 12000 | val_loss 3.861 | BLEU 21.21 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steuert eine Rindretefläche am Ufer.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünenladen auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Zöpfen sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle vor einem blauen,fuzen im Hinterhof.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste und einem kleinen roten Hut sitzt in einem Boot.
+
+
+===== step 14000 | val_loss 3.920 | BLEU 20.83 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steuert eine Terrasse aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Holzhelle in einem verschneiten Tal versammelt.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in der roten Jacke sitzt in einem kleinen Boot.
+
+
+===== step 16000 | val_loss 3.961 | BLEU 20.54 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern holt einen Baum aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem grünen Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einem verschneiten Tag in einer blauen, blauen Berglandschaft zu sehen sind.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste und Brille sitzt in einem kleinen Boot.
+
+
+===== step 18000 | val_loss 3.986 | BLEU 20.95 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steuert eine Abfatte hoch.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Sofa auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt auf dem Schoß.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer blauen Klippe, die auf einem Bergarbeiten platzt.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste in einem kleinen Boot.
+
+
+===== step 20000 | val_loss 3.998 | BLEU 20.06 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zupft Essen von einem Feuer.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann, der in einem grünen Sweatshirt ein Semus in einem grünen Stuhl schläft.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt auf dem Schoß einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer in einer Holzhütte, die auf einer Holzklippe aus fischen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Glatzenansmütze hält in einem kleinen Boot.
+
+
+===== step 22000 | val_loss 3.997 | BLEU 20.73 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern entpugt eine Schubkarre.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Raum auf einem grünen Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt auf der Hand eines anderen auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind auf einer Leiter und bereiten eine Dinosaurierskulptur an einem See zu.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste sitzt in einem kleinen Boot.
+
+
+===== step 24000 | val_loss 4.005 | BLEU 20.54 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern kommt die Stufen eines Flusses herunter.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf der Stufe.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer hölzernen Felsklippe im Wald zu sehen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer Glatzenweste und einem roten Hut sitzt in einem Boot.
+
+
+===== step 26000 | val_loss 4.026 | BLEU 20.57 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern putzt eine Biene aus einem steinernen Ufer.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Klippe im blauen Berglandschaft erledigt.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste und Brille sitzt in einem kleinen Boot.
+
+
+===== step 28000 | val_loss 4.022 | BLEU 20.63 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern sammelt eine Schubkarre aus einem steineren Tag.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Zimmer auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Berghütte aus fischen, im Hinterhof eines Sees.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste sitzt in einem kleinen Boot.
+
+
+===== step 30000 | val_loss 4.011 | BLEU 20.65 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeltet einen steinernen Berg hinunter.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Frau auf den Schultern.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Delere im Hinterhof eines Segels erfädern.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille sitzt in einem kleinen Boot am Wasser.
+
+
+===== step 32000 | val_loss 4.027 | BLEU 21.15 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern steuert eine Reinreße aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einer grünen Couch.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Hand einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Felsklippe im blauen Berglandschaft sind.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille sitzt in einem kleinen Boot.
+
+
+===== step 34000 | val_loss 4.011 | BLEU 21.00 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern versammelt sich um einen Abschienen.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Stuhl in einem grünen Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Frau auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle in einem Wald auswirfen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Kopfbedeckung in einem Boot sitzt.
+
+
+===== step 36000 | val_loss 4.014 | BLEU 20.70 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zupft ein Bauwerk an.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit der Nähmaschine sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Klippe stehen, bereiten eine Kuh im blauen Meer zu.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kappe und grünem Hut paddelt in einem kleinen Boot.
+
+
+===== step 38000 | val_loss 4.017 | BLEU 21.20 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zupft einen Zementbau aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Stuhl in einem Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf den Schultern einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer hölzernen Felsklippe im Wald eines blauen Sees sind.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer roten Schwimmweste trägt ein kleines Kind in einem Boot.
+
+
+===== step 40000 | val_loss 4.018 | BLEU 20.68 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern holt eine Bzenreße aus einem steinernen Gebäude.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem Park.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Felsklutkulptur eines Sees stehen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille sitzt in einem kleinen Boot und angelt.
+
+
+===== step 42000 | val_loss 4.021 | BLEU 20.64 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern versammelt sich um einen Abschlerenung zu spielen.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem Park.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Brille sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die sich unter einer bewaldeten Felsklippe an einen blauen Berg angrenzen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in einem roten Boot sitzt auf einem Felsen.
+
+
+===== step 44000 | val_loss 4.002 | BLEU 21.38 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern raucht ein steiniges Gerüst.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem grünen Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit lockigen Haaren sitzt auf der Bank.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die unter einer Leiter an einer Holzverfindung arbeiten.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille beobachtet ein kleines Kind in einem Boot.
+
+
+===== step 46000 | val_loss 4.009 | BLEU 21.59 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern putzt einen Baum aus Holz.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem Park.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den braunen Haaren sitzt auf der Bank mit einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die sich unter einer Kuh an einem verschneiten Tag gutfutehen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung ist in einem Boot auf einem kleinen Boot.
+
+
+===== step 48000 | val_loss 4.000 | BLEU 20.70 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern wie Arbeiter eine Rustreung reinigt einen Absolventen.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf der Frau mit einer Brille.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die unter einer Leiter im Hinterhof eines steilen Sees eisrenigen Arbeit bei einer Bergbahn erfrenzen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille fährt in einem kleinen Boot auf einem Felsen.
+
+
+===== step 50000 | val_loss 4.006 | BLEU 21.12 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeichnen einen steinernen Zementblock.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt mit den Händen auf der Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer blauen Ebene in einem See, die sich unter einer Bergklucht befindet.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille und grünem Hut sitzt in einem Boot.
+
+
+===== step 52000 | val_loss 4.001 | BLEU 20.42 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern befördert einen Schutt.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt auf der Schulter seines Mannes.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Leiter in einem blauen Wald und erforsfen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille und neben einem kleinen Boot in einem roten Boot.
+
+
+===== step 54000 | val_loss 4.000 | BLEU 21.14 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern entladen einen Baum aus Holz.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf einer Frau mit den Schultern.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Hütte in einem Wald und erledigen Eis.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille sitzt in einem kleinen Boot.
+
+
+===== step 56000 | val_loss 4.007 | BLEU 20.80 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeichnen einen Topf aus einer Schubkarre.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den braunen Haaren sitzt auf der Bank mit einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Klippe unterliegende Personen auf einem Berg warten.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung ist in einem kleinen Boot auf einem Felsen.
+
+
+===== step 58000 | val_loss 3.994 | BLEU 20.98 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeltet aus einem Gleisen.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den braunen Haaren sitzt auf der Bank mit einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle im Hinterhof eines hellblauen Sees auswirfen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung sitzt in einem kleinen Boot am Wasser.
+
+
+===== step 60000 | val_loss 3.993 | BLEU 20.90 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt die Abwatte.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann auf einem grünen Sofa in einem grünen Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den stnchende Frau auf der Schulter.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Leiter auf einem Bergoren, der zu sein scheint.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit grüner Kopfbedeckung sitzt in einem Boot auf einem kleinen Boot.
+
+
+===== step 62000 | val_loss 3.992 | BLEU 21.44 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern versammelt sich, um einen steinere Berg zu überqueren.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Park auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge, der die Brille auf dem Schoß sitzt und eine Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Anlegestelle und erforseln auf einem Berg vor einer bewaldeten Berggebäude.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung sitzt in einem kleinen Boot.
+
+
+===== step 64000 | val_loss 3.992 | BLEU 21.29 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeichnen von einem Lkw aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Zimmer auf einem Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Schoß einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Leiter auf einem Bergoberfläche austür.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz trägt ein kleines Kind in einer roten Jacke.
+
+
+===== step 66000 | val_loss 4.008 | BLEU 20.98 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern überquert einen dunklen Berg.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den braunen Haaren sitzt auf der Schulter einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer bewaldeten Felsklippe im Hinterhof unterteigen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung sitzt in einem kleinen Boot.
+
+
+===== step 68000 | val_loss 3.993 | BLEU 21.10 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zupft einen Holzbau aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Schoß einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle unter einem Wald blauerischfen sind.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in einer roten Jacke sitzt in einem kleinen Boot.
+
+
+===== step 70000 | val_loss 3.998 | BLEU 20.94 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zötziert die Szenerie eines Betongebäudes.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem Park.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Augen hat den Schoß einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Hütte in einem Wald, der Sonnenan gebogen ist.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit einer beginnenden roten Schwimmweste sitzt in einem Boot.
+
+
+===== step 72000 | val_loss 4.005 | BLEU 20.95 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zelt die Abfatte aus einem Fenster.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit einer Brille sitzt und hat die Haare einer Frau auf.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer blauen Klippe oder im Hinterhof einer Art schneebedeckten Berg zu sehen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille und grünem Hut sitzt in einem Boot am Wasser.
+
+
+===== step 74000 | val_loss 4.011 | BLEU 21.00 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zelt die Schutt eines Autos.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem grünen Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Schoß einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Holzlucht in einem Hinterhof untertzen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in einer roten Jacke fährt in einem Boot.
+
+
+===== step 76000 | val_loss 4.005 | BLEU 21.06 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zött einen Holzbaublock.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den braunen Haaren sitzt mit einer Frau auf den Schultern.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer blauen Klippe und erfippe auf einen Berg.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung paddelt in einem kleinen Boot.
+
+
+===== step 78000 | val_loss 4.005 | BLEU 21.52 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt die Schutt eines Berges.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem grünen Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit braunen Haaren sitzt auf der Hand seiner Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die sich unter einer bewaldeten Felsklippe an einer Anlegestelle unterlichen Landschaft gemacht sind.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in gelbem Sweatshirt sitzt in einem kleinen Boot.
+
+
+===== step 80000 | val_loss 3.994 | BLEU 21.45 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt einen Zementblock.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem grünen Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Augen sitzt auf einer Frau mit Kopfhörern.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Anlegestelle in einem blauen Wald und schwingen auf einem Berg.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kappe paddelt in einem kleinen Boot.
+
+
+===== step 82000 | val_loss 4.013 | BLEU 20.99 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt die Rronten eines fahrenden Gebäudes.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge, der eine Brille auf dem Schoß des Mannes sitzt.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Hütte und schwingen über einen blauen Berg oderblauen Berg.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit beginnender Glatzen trägt ein kleines Kind in Rafting.
+
+
+===== step 84000 | val_loss 3.994 | BLEU 20.62 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt einen Feinschbau.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem Park.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein kleiner Junge mit Brille sitzt auf der Schulter einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle in einem Hinterhof zwischen sich hängende Bergkluteigen.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille und grünem Hut sitzt in einem kleinen Boot.
+
+
+===== step 86000 | val_loss 3.984 | BLEU 20.84 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zelt einen Zementbauwagen.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Stuhl im grünen Gras.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit Brille sitzt auf der Frau und sie.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle sind, blicken auf einen Wald unter sich.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille und grünem Sweatshirt sitzt in einem Boot.
+
+
+===== step 88000 | val_loss 4.002 | BLEU 21.16 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt die Stufen eines Autos.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa in einem grünen Raum.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit lockigen Haaren sitzt auf der Schulter einer Frau.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle sind, sind zu sehen und der scheint auf einem Berg zu sein.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in einem kleinen roten Boot sitzt auf einem Felsen.
+
+
+===== step 90000 | val_loss 3.990 | BLEU 21.12 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zupft einen Kartoffelwagen aus Holz.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf einer Frau mit Brille.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle in einem nichten blauen Tal arbeiten.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in einer kleinen roten Jacke fährt in einem Boot.
+
+
+===== step 92000 | val_loss 4.015 | BLEU 21.10 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt einen Abhang aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Stuhl in einem grünen Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf der Frau mit einer Brille.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle in einem Wald blauer Hinterhof arbeiten.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Kopfbedeckung sieht zu, wie er in einem kleinen Boot fährt.
+
+
+===== step 94000 | val_loss 4.015 | BLEU 21.29 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zisen eines Arbeitsfahrzeugs.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft in einem grünen Stuhl auf einem Stuhl.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt auf der Frau mit einer Brille.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle in einem blauen Tal arbeiten, wo sie sich einen See befindet.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit roter Brille und grünem Hut sitzt in einem kleinen Boot.
+
+
+===== step 96000 | val_loss 4.003 | BLEU 20.80 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zeitelt einen Holzbauwerk.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Augen sitzt mit einer Frau auf den Schultern.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer Holzskulptur und schwingen über eine Holzskulptur.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz in einer roten Jacke fährt auf einem Boot.
+
+
+===== step 98000 | val_loss 4.002 | BLEU 21.58 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zelt einen Holzbau aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein schlafender Mann auf einem grünen Sofa.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein kleiner Junge mit den Augen sitzt auf einer Frau mit den Schultern.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer, die an einer Anlegestelle unter einem bewölkten blauen Dschungel bei einer Berglandschaft auswirdern.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit Glatzenansatz trägt ein kleines Kind in einem Boot.
+
+
+===== step 100000 | val_loss 4.005 | BLEU 20.58 =====
+EN : A group of men are loading cotton onto a truck
+ref: Eine Gruppe von Männern lädt Baumwolle auf einen Lastwagen
+hyp:  Eine Gruppe von Männern zupft ein Bauwerk aus.
+
+EN : A man sleeping in a green room on a couch.
+ref: Ein Mann schläft in einem grünen Raum auf einem Sofa.
+hyp:  Ein Mann schläft auf einem grünen Stuhl auf dem Rasen.
+
+EN : A boy wearing headphones sits on a woman's shoulders.
+ref: Ein Junge mit Kopfhörern sitzt auf den Schultern einer Frau.
+hyp:  Ein Junge mit den Händen sitzt mit einer Frau auf sie.
+
+EN : Two men setting up a blue ice fishing hut on an iced over lake
+ref: Zwei Männer bauen eine blaue Eisfischerhütte auf einem zugefrorenen See auf
+hyp:  Zwei Männer sind an einer blauen Ebene, die auf einem See unterlichen Berg schwimmt.
+
+EN : A balding man wearing a red life jacket is sitting in a small boat.
+ref: Ein Mann mit beginnender Glatze, der eine rote Rettungsweste trägt, sitzt in einem kleinen Boot.
+hyp:  Ein Mann mit grüner Schwimmweste sitzt in einem Boot.
+
